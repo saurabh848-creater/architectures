@@ -2,7 +2,7 @@
 
 > **Domain:** Financial Crime / Anti-Money Laundering
 > **Engagement Type:** Client Programme (Tier 1 Bank)
-> **Author:** Saurabh Laturkar, Solution Architect
+> **Author:** Saurabh SArkar, Solution Architect
 > **Last Updated:** 2025
 > **Status:** Delivered — Production
 
