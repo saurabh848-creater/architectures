@@ -2,7 +2,7 @@
 
 > **Domain:** Agentic AI / Private Banking Onboarding
 > **Classification:** Architecture Proof-of-Concept (Production-Representative Design)
-> **Author:** Saurabh Laturkar, Solution Architect
+> **Author:** Saurabh Sarkar, Solution Architect
 > **Last Updated:** 2025
 > **Status:** Active Development
 
