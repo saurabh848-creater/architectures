@@ -68,7 +68,7 @@ iCLM addresses this through a **multi-agent orchestration architecture** built o
 │  KNOWLEDGE & INTELLIGENCE LAYER                                             │
 │  ┌──────────────────────────────────────────────────────────────────────┐  │
 │  │  RAG Pipeline                                                         │  │
-│  │  LlamaIndex  ──▶  ChromaDB / Pinecone  ──▶  OpenAI Embeddings        │  │
+│  │  LlamaIndex  ──▶  Pinecone  ──▶  OpenAI Embeddings        │  │
 │  │  (Policy Docs, Regulatory Guides, Product Rules, Country Risk)        │  │
 │  └──────────────────────────────────────────────────────────────────────┘  │
 │                                                                             │
